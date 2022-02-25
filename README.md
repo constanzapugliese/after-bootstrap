@@ -1,2 +1,2 @@
 # after-bootstrap
-Cómo usar el CDN de Bootstrap (grid system, utilities y components)
+Cómo usar Bootstrap (grid system, utilities y components) mediante CDN.
